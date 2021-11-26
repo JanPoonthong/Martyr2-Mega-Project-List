@@ -1,3 +1,11 @@
+# Reverse String
+
+## Run
 ```console
-$ go get github.com/stretchr/testify/assert
+$ go run main.go
+```
+
+## Test
+```console
+$ go test -v
 ```
