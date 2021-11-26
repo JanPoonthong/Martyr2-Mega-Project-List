@@ -25,6 +25,7 @@ func Reverse(input string) (output string) {
 }
 
 func main() {
+	fmt.Print("Enter a string to reverse: ")
 	in := bufio.NewReader(os.Stdin)
 	if line, err := in.ReadString('\n'); err != nil {
 		log.Fatal(err)
