@@ -1,4 +1,4 @@
-# Martyr2-Mega-Project-Ideas-110-Projects
+# Martyr2-Mega-Project-List
 
 ## Projects
 * [Reverse String (Go)](text/reverse-string)
